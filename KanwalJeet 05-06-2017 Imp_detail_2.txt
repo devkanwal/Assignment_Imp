@@ -1,0 +1,14 @@
+Implementation Details Assignment - 2
+
+Steps to run program:
+1. Requirements:
+	-	Python 2.4
+		- Tkinter,Threading,Socket,Random
+	-	Assign_2.py
+2. Open command line and redirect to the folder in which the files are stored
+3. Next type: python Assign_2.py and a chat gui appears. Consider this are chat server(Chat_S)
+4. Open a new command line and redirect to the folder in which the files are stored
+5. Next type: python Assign_2.py and a chat gui appears. Consider this are chat client(Chat_C)
+6. From Chat_S click on Connect and enter port no as 9411.
+7. From Chat_A click on Connect and enter the ip address of the maching by typing ipconfig in command line. In the second field enter port no i.e. 9411
+8. Both the GUI showes the that client is connected and chat can be initialized. 
