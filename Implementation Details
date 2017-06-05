@@ -1,0 +1,10 @@
+Implementation Details
+
+Steps to run program:
+1. Requirements:
+	-	Python 2.4
+		- CSV dependancy fulfilled
+	-	Assign_1.py and StudentData.csv need to be in the same folder
+2. Open command line and redirect to the folder in which the files are stored
+3. Next type: python cache_ordic.py
+4. It will show results regarding the implementation.
